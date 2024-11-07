@@ -1,3 +1,6 @@
 # SemanticSearchPro
 
 ## Guideline
+
+
+## Follow architecture
